@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125474216436",
+    "project_id": "blogg-6a9db",
+    "storage_bucket": "blogg-6a9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125474216436:android:be1b2f7c15fc630c19c1a1",
+        "android_client_info": {
+          "package_name": "com.example.blogg_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMAh8qpXsCEaiFX33jJTuSo77FQh8wxiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
