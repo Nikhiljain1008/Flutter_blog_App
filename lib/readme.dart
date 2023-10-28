@@ -1,0 +1,1 @@
+//this is a simple blogging app connected to firebase if you want to use your own firebase you can follow steps given in realtime firebase 
